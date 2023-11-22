@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irvingmontero
 - 👀 I’m interested in economics and international trade data analysis 
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning MATLAB, R and Python
 - 💞️ I’m looking to collaborate on data analysis and data viz
 - 📫 How to reach me irving.monterocg@gmail.com
 
