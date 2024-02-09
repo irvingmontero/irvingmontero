@@ -1,5 +1,5 @@
-## Hola :octocat:
-- 👋 I'm @irvingmontero
+## ¡Hola!👋
+- I'm @irvingmontero
 - 👀 I'm interested in economics and international trade data analysis 
 - 🌱 I'm currently learning MATLAB, R and Python
 - 💞️ I'm looking to collaborate on data analysis and data viz
